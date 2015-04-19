@@ -1,0 +1,173 @@
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\Basics.csprojResolveAssemblyReference.cache
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\Basics.dll
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\Basics.pdb
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\bin\Debug\Basics.dll
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\bin\Debug\Basics.pdb
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\bin\Debug\Basics.dll.mdb
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\bin\Debug\Basics.Basics.apk
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\bin\Debug\Basics.Basics-Signed.apk
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\bin\Debug\RestSharp.MonoDroid.dll
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\android\bin\Basics.Basics.apk
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\layout\main.xml
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\values\strings.xml
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable-hdpi\icon.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable-mdpi\icon.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable-xhdpi\icon.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable-xxhdpi\icon.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable-xxxhdpi\icon.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_clear.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_clear_night.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_clouds.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_clouds_night.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_few_clouds.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_few_clouds_night.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_hail.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_mist.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_none_available.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_showers_day.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_showers_night.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_showers_scattered_day.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_showers_scattered_night.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_snow.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_snow_rain.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_snow_scattered_day.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_snow_scattered_night.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_storm.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_storm_day.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_storm_night.png
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\layout\cities.xml
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\R.cs.flag
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\uploadflags.txt
+\\telmar\users\EC005\My Documents\Projects\Basics\Basics\obj\Debug\res\drawable\gradient_background.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\bin\Debug\Basics.dll
+C:\Users\Ethan\Documents\Projects\Basics\Basics\bin\Debug\Basics.pdb
+C:\Users\Ethan\Documents\Projects\Basics\Basics\bin\Debug\Basics.dll.mdb
+C:\Users\Ethan\Documents\Projects\Basics\Basics\bin\Debug\Basics.Basics.apk
+C:\Users\Ethan\Documents\Projects\Basics\Basics\bin\Debug\Basics.Basics-Signed.apk
+C:\Users\Ethan\Documents\Projects\Basics\Basics\bin\Debug\AndHUD.dll
+C:\Users\Ethan\Documents\Projects\Basics\Basics\bin\Debug\RestSharp.MonoDroid.dll
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\Basics.dll
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\Basics.pdb
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\android\bin\Basics.Basics.apk
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout\main.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\values\strings.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_clear.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_clear_night.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_clouds.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_clouds_night.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_few_clouds.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_few_clouds_night.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_hail.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_mist.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_none_available.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_showers_day.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_showers_night.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_showers_scattered_day.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_showers_scattered_night.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_snow.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_snow_rain.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_snow_scattered_day.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_snow_scattered_night.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_storm.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_storm_day.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\weather_storm_night.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout\cities.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\gradient_background.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\newbottomoption.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\newtopoption.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\slide_1_enter.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\slide_1_exit.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\slide_2_enter.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\slide_2_exit.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-large\main.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-normal\main.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-small\main.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-xlarge\main.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-large\cities.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-normal\cities.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-small\cities.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-xlarge\cities.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-large-land\cities.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-large-land\main.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-normal-land\cities.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-normal-land\main.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-small-land\cities.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-small-land\main.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-xlarge-land\cities.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\layout-xlarge-land\main.xml
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\R.cs.flag
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\uploadflags.txt
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\Basics.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\largebottom2.png
+C:\Users\Ethan\Documents\Projects\Basics\Basics\obj\Debug\res\drawable\largetop2.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\bin\Debug\Basics.dll
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\bin\Debug\Basics.pdb
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\bin\Debug\Basics.dll.mdb
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\bin\Debug\Basics.Basics.apk
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\bin\Debug\Basics.Basics-Signed.apk
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\bin\Debug\AndHUD.dll
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\bin\Debug\RestSharp.MonoDroid.dll
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\Basics.dll
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\Basics.pdb
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\android\bin\Basics.Basics.apk
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout\main.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\values\strings.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable-hdpi\icon.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable-mdpi\icon.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable-xhdpi\icon.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable-xxhdpi\icon.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable-xxxhdpi\icon.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_clear.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_clear_night.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_clouds.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_clouds_night.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_few_clouds.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_few_clouds_night.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_hail.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_mist.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_none_available.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_showers_day.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_showers_night.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_showers_scattered_day.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_showers_scattered_night.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_snow.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_snow_rain.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_snow_scattered_day.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_snow_scattered_night.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_storm.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_storm_day.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\weather_storm_night.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout\cities.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\gradient_background.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\newbottomoption.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\newtopoption.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\slide_1_enter.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\slide_1_exit.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\slide_2_enter.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\slide_2_exit.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-large\main.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-normal\main.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-small\main.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-xlarge\main.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-large\cities.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-normal\cities.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-small\cities.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-xlarge\cities.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-large-land\cities.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-large-land\main.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-normal-land\cities.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-normal-land\main.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-small-land\cities.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-small-land\main.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-xlarge-land\cities.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\layout-xlarge-land\main.xml
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\largebottom2.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\res\drawable\largetop2.png
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\R.cs.flag
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\uploadflags.txt
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\obj\Debug\Basics.csprojResolveAssemblyReference.cache

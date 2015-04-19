@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Basics\Basics.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.169.254.138.177:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Basics\MainActivity.cs">
+    <Files>
+      <File FileName="Basics\MainActivity.cs" Line="20" Column="20" />
+      <File FileName="Basics\SecondActivity.cs" Line="1" Column="1" />
+      <File FileName="Basics\DatabaseManager.cs" Line="1" Column="1" />
+      <File FileName="Basics\Resources\drawable\Gradient_Background.xml" Line="1" Column="1" />
+      <File FileName="Basics\RESThandler.cs" Line="1" Column="1" />
+      <File FileName="Basics\Response.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Basics AndroidDesignerPreferredDevice="Nexus 7" MonoForAntroid.PreferredDevice="Nexus 7 (2012)" />
+</Properties>

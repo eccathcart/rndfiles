@@ -1,0 +1,81 @@
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\bin\Debug\A6_Weather.dll
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\bin\Debug\A6_Weather.pdb
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\bin\Debug\A6_Weather.dll.mdb
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\bin\Debug\A6_Weather.A6_Weather.apk
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\bin\Debug\A6_Weather.A6_Weather-Signed.apk
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\bin\Debug\RestSharp.MonoDroid.dll
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\A6_Weather.dll
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\A6_Weather.pdb
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\android\bin\A6_Weather.A6_Weather.apk
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\layout\main.xml
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\values\strings.xml
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_clear.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_clear_night.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_clouds.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_clouds_night.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_few_clouds.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_few_clouds_night.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_hail.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_storm_night.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_storm.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_storm_day.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_snow_scattered_night.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_mist.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_none_available.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_showers_day.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_showers_night.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_showers_scattered_day.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_showers_scattered_night.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_snow.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_snow_rain.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_snow_scattered_day.png
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\R.cs.flag
+C:\Users\Ethan\Documents\Projects\A6_Weather\A6_Weather\obj\Debug\uploadflags.txt
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\bin\Debug\A6_Weather.dll
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\bin\Debug\A6_Weather.pdb
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\bin\Debug\A6_Weather.dll.mdb
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\bin\Debug\A6_Weather.A6_Weather.apk
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\bin\Debug\A6_Weather.A6_Weather-Signed.apk
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\bin\Debug\Newtonsoft.Json.dll
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\bin\Debug\RestSharp.MonoDroid.dll
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\bin\Debug\Newtonsoft.Json.xml
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\A6_Weather.csprojResolveAssemblyReference.cache
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\A6_Weather.dll
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\A6_Weather.pdb
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\android\bin\A6_Weather.A6_Weather.apk
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\layout\main.xml
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\values\strings.xml
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable-hdpi\icon.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable-mdpi\icon.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable-xhdpi\icon.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable-xxhdpi\icon.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable-xxxhdpi\icon.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_clear.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_clear_night.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_clouds.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_clouds_night.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_few_clouds.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_few_clouds_night.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_hail.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_storm_night.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_storm.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_storm_day.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_snow_scattered_night.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_mist.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_none_available.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_showers_day.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_showers_night.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_showers_scattered_day.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_showers_scattered_night.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_snow.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_snow_rain.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\res\drawable\weather_snow_scattered_day.png
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\R.cs.flag
+\\telmar\users\EC005\My Documents\Projects\A6_Weather\A6_Weather\obj\Debug\uploadflags.txt

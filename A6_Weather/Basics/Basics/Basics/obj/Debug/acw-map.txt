@@ -1,0 +1,4 @@
+Basics.MainActivity;basics.MainActivity
+Basics.SecondActivity;basics.SecondActivity
+AndroidHUD.ProgressWheel;androidhud.ProgressWheel
+AndroidHUD.ProgressWheel.SpinHandler;androidhud.ProgressWheel_SpinHandler

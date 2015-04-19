@@ -1,0 +1,9 @@
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Basics\bin\Debug\Basics.dll
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Components\AndHUD-1.3.1\lib\android\AndHUD.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v4.4\Mono.Android.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\mscorlib.dll
+S:\Software\Ethan Cathcart\A6_Weather\Basics\Basics\Components\restsharp-105.0.1.0\lib\android\RestSharp.MonoDroid.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Core.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.Linq.dll

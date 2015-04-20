@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:id="@+id/btnGetLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fetch my location" />
+    <EditText
+        android:id="@+id/txtLat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="lat" />
+    <EditText
+        android:id="@+id/txtLong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="long" />
+    <Button
+        android:id="@+id/btnGetAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Get Address" />
+    <EditText
+        android:id="@+id/txtAddress"
+        android:inputType="textMultiLine"
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+    <Button
+        android:id="@+id/btnShowinMap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show in Map" />
+</LinearLayout>

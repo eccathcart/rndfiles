@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="GPSMaps\GPSMaps.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_for_Nexus_4_by_Google" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GPSMaps\MainActivity.cs">
+    <Files>
+      <File FileName="GPSMaps\MainActivity.cs" Line="19" Column="19" />
+      <File FileName="GPSMaps\MapActivity.cs" Line="3" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="GPSMaps" expanded="True">
+            <Node name="ComponentReferenceFolder" expanded="True" />
+            <Node name="Properties" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="layout" expanded="True">
+                <Node name="Map.axml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GPSMaps MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>

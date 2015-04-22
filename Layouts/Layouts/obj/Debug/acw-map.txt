@@ -1,0 +1,3 @@
+Layouts.MainActivity;layouts.MainActivity
+Layouts.SecondActivity;layouts.SecondActivity
+Layouts.App;layouts.App

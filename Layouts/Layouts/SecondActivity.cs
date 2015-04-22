@@ -10,26 +10,60 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.Content.PM;
+using System.Threading.Tasks;
+using Parse;
 
 namespace Layouts
 {
     [Activity(Label = "SecondActivity", ScreenOrientation = ScreenOrientation.Portrait)]
     public class SecondActivity : Activity
     {
-        TextView txtLogin;
+		EditText txtUsername;
+		EditText txtEmail;
+		EditText txtPassword;
+		Button btnRegister;
+
+		ParseHandler objParse = ParseHandler.Default;
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-            SetContentView(Resource.Layout.Main);
+            SetContentView(Resource.Layout.register);
 
-            txtLogin = FindViewById<TextView>(Resource.Id.txtLogin);
+            txtUsername = FindViewById<EditText>(Resource.Id.txtUserName);
+			txtEmail = FindViewById<EditText>(Resource.Id.txtEmail);
+			txtPassword = FindViewById<EditText>(Resource.Id.txtPassword);
+			btnRegister = FindViewById<Button>(Resource.Id.btnRegister);
 
-            txtLogin.Click += OntxtLoginClick;
+            btnRegister.Click += OnRegisterButtonClick;
         }
 
-        public void OntxtLoginClick(object sender, EventArgs e)
+        public void OnRegisterButtonClick(object sender, EventArgs e)
         {
-            StartActivity(typeof(SecondActivity));
+			RegisterNewUser ();
         }
+
+		public async void RegisterNewUser()
+		{
+			Toast.MakeText (this, "Please wait...", ToastLength.Short).Show ();
+
+			var result = await objParse.CheckIfUserNameExists (txtUsername.Text);
+
+			if (result == true) {
+				Toast.MakeText (this, "That username already exists.", ToastLength.Long).Show ();
+			} else {
+				await objParse.CreateUserAsync (txtUsername.Text, txtEmail.Text, txtPassword.Text);
+				Toast.MakeText (this, "Account has successfully been created.", ToastLength.Short).Show ();
+				Toast.MakeText (this, "You may now login.", ToastLength.Short).Show ();
+				ClearAll ();
+				StartActivity (typeof(MainActivity));
+			}
+		}
+
+		void ClearAll()
+		{
+			txtUsername.Text = "";
+			txtPassword.Text = "";
+			txtEmail.Text = "";
+		}
     }
 }

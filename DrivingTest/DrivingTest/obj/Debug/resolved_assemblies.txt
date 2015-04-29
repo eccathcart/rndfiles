@@ -1,0 +1,2 @@
+\\telmar\users\EC005\My Documents\Projects\DrivingTest\DrivingTest\bin\Debug\DrivingTest.dll
+\\telmar\users\EC005\My Documents\Projects\DrivingTest\Components\parse-1.4.1\lib\android\Parse.Android.dll

@@ -1,3 +1,6 @@
 Layouts.MainActivity;layouts.MainActivity
 Layouts.SecondActivity;layouts.SecondActivity
 Layouts.App;layouts.App
+Layouts.DataAdapter;layouts.DataAdapter
+Layouts.AddPosts;layouts.AddPosts
+Layouts.FeedActivity;layouts.FeedActivity

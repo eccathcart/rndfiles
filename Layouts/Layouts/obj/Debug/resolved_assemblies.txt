@@ -1,2 +1,2 @@
-C:\Users\Ethan\Documents\GitHub\rndfiles\Layouts\Layouts\bin\Debug\Layouts.dll
-C:\Users\Ethan\Documents\GitHub\rndfiles\Layouts\Components\parse-1.4.1\lib\android\Parse.Android.dll
+\\telmar\users\EC005\My Documents\GitHub\rndfiles\Layouts\Layouts\bin\Debug\Layouts.dll
+\\telmar\users\EC005\My Documents\GitHub\rndfiles\Layouts\Components\parse-1.4.1\lib\android\Parse.Android.dll

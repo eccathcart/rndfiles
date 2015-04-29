@@ -18,7 +18,7 @@ namespace Layouts
 		{
 			base.OnCreate ();
 
-			ParseClient.Initialize ("9stoAGBYWnw4omqqlqMbABB1Pgqh755d5RCWxpta", "lGfDgvrWtTv4NYtU2dg6evWYlHAfzeaNo5REipSo");
+			ParseClient.Initialize ("7FAfM4U99caBGd9hXohkNo2xYzC7eMSnF5Cjo49H", "dGKtGcCuUiBHl2Pm7rA0XOFhjiSyk3IMeBBGkVOw");
 		}
 	}
 }

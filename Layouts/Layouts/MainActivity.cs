@@ -44,6 +44,7 @@ namespace Layouts
 
 				if (result == true) {
 					Toast.MakeText (this, "Login successful.", ToastLength.Long).Show ();
+					StartActivity (typeof(FeedActivity));
 				} else {
 					Toast.MakeText (this, "Login unsuccessful. Please check your username/password.", ToastLength.Long).Show ();
 				}

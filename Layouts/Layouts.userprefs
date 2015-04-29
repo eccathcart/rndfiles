@@ -1,29 +1,17 @@
 ﻿<Properties StartupItem="Layouts\Layouts.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Layouts\MainActivity.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_for_Nexus_4_by_Google" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Layouts\AddPosts.cs">
     <Files>
-      <File FileName="Layouts\App.cs" Line="17" Column="9" />
-      <File FileName="Layouts\ParseHandler.cs" Line="48" Column="18" />
-      <File FileName="Layouts\MainActivity.cs" Line="48" Column="85" />
-      <File FileName="Layouts\SecondActivity.cs" Line="66" Column="23" />
+      <File FileName="Layouts\ParseHandler.cs" Line="28" Column="28" />
+      <File FileName="Layouts\AddPosts.cs" Line="25" Column="25" />
+      <File FileName="Layouts\FeedActivity.cs" Line="3" Column="3" />
+      <File FileName="Layouts\DataAdapter.cs" Line="1" Column="1" />
+      <File FileName="Layouts\Posts.cs" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True">
-          <Node name="Layouts" expanded="True">
-            <Node name="ComponentReferenceFolder" expanded="True" />
-            <Node name="Resources" expanded="True">
-              <Node name="layout" expanded="True" />
-            </Node>
-            <Node name="MainActivity.cs" selected="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Layouts AndroidDesignerPreferredDevice="Nexus 4" />
+  <MonoDevelop.Ide.ItemProperties.Layouts AndroidDesignerPreferredDevice="Nexus 4" MonoForAntroid.PreferredDevice="Nexus 4" />
 </Properties>

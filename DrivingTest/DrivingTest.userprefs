@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="DrivingTest\DrivingTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_7" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DrivingTest\MainActivity.cs">
+    <Files>
+      <File FileName="DrivingTest\MainActivity.cs" Line="13" Column="13" />
+      <File FileName="DrivingTest\ParseHandler.cs" Line="4" Column="4" />
+      <File FileName="DrivingTest\Questions.cs" Line="42" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DrivingTest MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>

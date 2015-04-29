@@ -1,0 +1,3 @@
+A5_Notes.MainActivity;a5_notes.MainActivity
+A5_Notes.DataAdapter;a5_notes.DataAdapter
+A5_Notes.SecondActivity;a5_notes.SecondActivity

@@ -13,7 +13,7 @@
     <AndroidApplication>true</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
-    <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
+    <AndroidUseLatestPlatformSdk>False</AndroidUseLatestPlatformSdk>
     <DevInstrumentationEnabled>True</DevInstrumentationEnabled>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <TargetFrameworkVersion>v4.4</TargetFrameworkVersion>
@@ -55,6 +55,11 @@
     <Compile Include="SecondActivity.cs" />
     <Compile Include="App.cs" />
     <Compile Include="ParseHandler.cs" />
+    <Compile Include="ToDo.cs" />
+    <Compile Include="DataAdapter.cs" />
+    <Compile Include="Posts.cs" />
+    <Compile Include="AddPosts.cs" />
+    <Compile Include="FeedActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -78,6 +83,32 @@
     <AndroidResource Include="Resources\layout-xlarge\register.axml">
       <SubType>AndroidResource</SubType>
     </AndroidResource>
+    <AndroidResource Include="Resources\layout\ListActivity.axml" />
+    <None Include="Resources\layout\CustomRow.axml" />
+    <None Include="Resources\layout-large\CustomRow.axml" />
+    <AndroidResource Include="Resources\layout-large\ListActivity.axml" />
+    <None Include="Resources\layout-normal\CustomRow.axml" />
+    <AndroidResource Include="Resources\layout-normal\ListActivity.axml" />
+    <None Include="Resources\layout-small\CustomRow.axml" />
+    <AndroidResource Include="Resources\layout-small\ListActivity.axml" />
+    <None Include="Resources\layout-xlarge\CustomRow.axml" />
+    <AndroidResource Include="Resources\layout-xlarge\ListActivity.axml" />
+    <AndroidResource Include="Resources\layout\ghgy.axml" />
+    <AndroidResource Include="Resources\layout-large\ghgy.axml" />
+    <AndroidResource Include="Resources\layout-normal\ghgy.axml" />
+    <AndroidResource Include="Resources\layout-small\ghgy.axml" />
+    <AndroidResource Include="Resources\layout-xlarge\ghgy.axml" />
+    <AndroidResource Include="Resources\layout\AddPost.axml" />
+    <AndroidResource Include="Resources\layout\Feed_item.axml" />
+    <AndroidResource Include="Resources\layout-large\AddPost.axml" />
+    <AndroidResource Include="Resources\layout-large\Feed_item.axml" />
+    <AndroidResource Include="Resources\layout-normal\AddPost.axml" />
+    <AndroidResource Include="Resources\layout-normal\Feed_item.axml" />
+    <AndroidResource Include="Resources\layout-small\AddPost.axml" />
+    <AndroidResource Include="Resources\layout-small\Feed_item.axml" />
+    <AndroidResource Include="Resources\layout-xlarge\AddPost.axml" />
+    <AndroidResource Include="Resources\layout-xlarge\Feed_item.axml" />
+    <AndroidResource Include="Resources\drawable\avatar.png" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml" />
